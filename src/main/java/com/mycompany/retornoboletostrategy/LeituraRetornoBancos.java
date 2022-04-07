@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 public abstract class LeituraRetornoBancos implements LeituraRetorno {
 
     @Override
-    public List<Boleto> lerArquivo(String caminhoArquivo) {
+    public final List<Boleto> lerArquivo(String caminhoArquivo) {
         List<Boleto> listaBoletos = new ArrayList<>();
         String linha;
         try {
