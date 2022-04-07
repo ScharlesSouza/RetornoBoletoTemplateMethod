@@ -1,0 +1,6 @@
+com\mycompany\retornoboletostrategy\Boleto.class
+com\mycompany\retornoboletostrategy\LeituraRetorno.class
+com\mycompany\retornoboletostrategy\LeituraRetornoBancoBrasil.class
+com\mycompany\retornoboletostrategy\Principal.class
+com\mycompany\retornoboletostrategy\LeituraRetornoBradesco.class
+com\mycompany\retornoboletostrategy\ProcessarBoletos.class
